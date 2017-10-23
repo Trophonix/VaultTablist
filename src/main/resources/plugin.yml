@@ -1,0 +1,9 @@
+name: VaultTablist
+version: 1.0
+author: Trophonix/Lucas
+main: com.trophonix.vaulttablist.VaultTablist
+depend: [Vault]
+commands:
+  vaulttablist:
+    description: Vault Tablist commands
+    aliases: [tablist,vtb]
